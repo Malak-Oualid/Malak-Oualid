@@ -6,17 +6,16 @@
 ---
 
 ## 💼 Experience
-
-**Software Engineering Intern @ Tailor Technologies**  
-At Tailor, I developed a resume-based game from scratch using React and TypeScript, designed to make the hiring process more engaging and interactive.  
-I focused heavily on the mobile experience — creating an intuitive onboarding flow, refining the UI/UX, and ensuring smooth performance.  
-On the backend side, I fine-tuned a GPT-4.0 model by writing a Python script to convert raw data into JSONL format, which boosted the model’s performance by 40%.  
-
 **Software Engineering Intern @ Middle Earth Technologies Ltd.**  
 Here, I overhauled an automated payroll testing script by introducing an MVC architecture, allowing the system to adapt to changes in WebRAS and PDOC tax calculation systems without messy code duplication.  
 I also helped migrate the frontend from Angular to React, building responsive UI components and wiring them up to APIs without breaking existing workflows.  
 To keep our testing pipelines modern and reliable, I researched frameworks like Selenium, Playwright, and Zero Step, weighing their strengths for long-term adoption.  
-Most of this work happened in a fully remote team, where we relied on Git workflows, clean commits, and thorough code reviews to keep everything running smoothly.  
+Most of this work happened in a fully remote team, where we relied on Git workflows, clean commits, and thorough code reviews to keep everything running smoothly. 
+
+**Software Engineering Intern @ Tailor **  
+At Tailor, I developed a resume-based game from scratch using React and TypeScript, designed to make the hiring process more engaging and interactive.  
+I focused heavily on the mobile experience — creating an intuitive onboarding flow, refining the UI/UX, and ensuring smooth performance.  
+On the backend side, I fine-tuned a GPT-4.0 model by writing a Python script to convert raw data into JSONL format, which boosted the model’s performance by 40%. 
 
 ---
 
@@ -52,7 +51,3 @@ Most of this work happened in a fully remote team, where we relied on Git workfl
 - **Portfolio**: _[coming soon]_  
 - **LinkedIn**: [(https://www.linkedin.com/in/malakoualid/)]  
 - **Email**: [malak.oualid@mail.mcgill.ca]  
-
----
-
-> _“Build it. Share it. Make it better.”_
