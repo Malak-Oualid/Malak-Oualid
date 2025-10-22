@@ -1,7 +1,6 @@
 # Hi, I'm Malak Oualid
 
 💡 Software engineering student at McGill University
-⚙️ Into full-stack dev, automation, and algorithm challenges
 
 ---
 
