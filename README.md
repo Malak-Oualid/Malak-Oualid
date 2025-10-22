@@ -35,20 +35,4 @@ Cybersecurity • Competitive programming • Art + tech fusion
 
 ## ✍️ Guestbook
 
-Leave a message below!
-
-<script src="https://giscus.app/client.js"
-        data-repo="Malak-Oualid/Malak-Oualid"
-        data-repo-id="R_kgDOPeGdYw"
-        data-category="[ENTER CATEGORY NAME HERE]"
-        data-category-id="[ENTER CATEGORY ID HERE]"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
+[💬 Sign the guestbook](https://github.com/Malak-Oualid/Malak-Oualid/discussions/categories/guestbook) — leave a message!
